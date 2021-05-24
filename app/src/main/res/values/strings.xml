@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Transport</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Knowledge Base MFC</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">категории</string>
+    <string name="menu_gallery">локации</string>
+    <string name="menu_slideshow">задачи</string>
+    <string name="people">люди</string>
+</resources>
